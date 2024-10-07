@@ -1,0 +1,4 @@
+En Kotlin, la lectura y escritura de archivos se puede hacer
+utilizando las clases estándar de Java como File, BufferedReader,
+BufferedWriter o bien, usando las funciones propias de Kotlin que
+son más sencillas.
